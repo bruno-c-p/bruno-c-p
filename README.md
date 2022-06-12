@@ -1,5 +1,5 @@
 # Hi, I'm Bruno 👋
-</br>
+
 ## I'm a student, developer and teacher
 
 - 💼 FrontEnd Engineer at [Neo Sistemas](http://www.neosistemas.com.br)
