@@ -25,7 +25,8 @@ I'm a student, developer and teacher!
 
 <p align="left">
 
-[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-c-p&card_width=100%)](https://github.com/anuraghazra/github-readme-stats)
+[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-c-p)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-c-p&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
 </p>
 
