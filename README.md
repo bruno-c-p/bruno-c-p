@@ -41,8 +41,12 @@
 >>>>>>> b1c8174 (Update README.md)
 =======
 
+<<<<<<< HEAD
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 >>>>>>> 7435ca2 (Update README.md)
+=======
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-c-p)](https://github.com/anuraghazra/github-readme-stats)
+>>>>>>> 28b5ed0 (Update README.md)
   
 </p>
 
