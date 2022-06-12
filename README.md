@@ -27,7 +27,7 @@ I'm a student, developer and teacher!
 
 <p align="left">
 
-[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno_c_p)](https://github.com/anuraghazra/github-readme-stats)
+[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-c-p)](https://github.com/anuraghazra/github-readme-stats)
   
 </p>
 
@@ -39,9 +39,9 @@ I'm a student, developer and teacher!
 
 <p align="left" style="background:blue">
 <a href="https://www.linkedin.com/in/bruno-cardozo-pereira-561b31196/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-bruno_c_p-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-bruno-c-p-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/bruno_c_p" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-bruno_c_p-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-bruno-c-p-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
