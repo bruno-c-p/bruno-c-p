@@ -1,6 +1,5 @@
 # Hi, I'm Bruno 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bruno_c_p&color=blue" alt="Profile views" /> </p>
-
+</br>
 ## I'm a student, developer and teacher
 
 - 💼 FrontEnd Engineer at [Neo Sistemas](http://www.neosistemas.com.br)
