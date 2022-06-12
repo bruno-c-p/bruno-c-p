@@ -1,6 +1,6 @@
 # Hi, I'm Bruno 👋
 
-## I'm a student, developer and teacher
+I'm a student, developer and teacher
 
 - 💼 Junior Developer at [Neo Sistemas](http://www.neosistemas.com.br)
 - 🌱 I’m currently learning java ecosystem 🚀
