@@ -54,9 +54,16 @@
 
 <p align="left" style="background:blue">
 <a href="https://www.linkedin.com/in/bruno-cardozo-pereira-561b31196/" target="_blank">
+<<<<<<< HEAD
   <img align="center" src="https://img.shields.io/badge/-bruno_c_p-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/bruno_c_p" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-bruno_c_p-05122A?style=flat&logo=instagram" alt="instagram"/>
+=======
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/bruno_c_p" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+>>>>>>> 2ef9d54 (Update README.md)
 </a>
 </p>
