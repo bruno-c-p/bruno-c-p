@@ -8,8 +8,6 @@ I'm a student, developer and teacher!
 - 🥅 2022 Goals: Learn more about Web Development and SQL
 - ⚡ Fun fact: I love to ride a bike
 
----
-
 ## 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
