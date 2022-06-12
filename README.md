@@ -2,12 +2,10 @@
 
 ## I'm a student, developer and teacher
 
-- 💼 FrontEnd Engineer at [Neo Sistemas](http://www.neosistemas.com.br)
+- 💼 Junior Developer at [Neo Sistemas](http://www.neosistemas.com.br)
 - 🌱 I’m currently learning java ecosystem 🚀
 - 🥅 2022 Goals: Learn more about Web Development and SQL
 - ⚡ Fun fact: I love to ride a bike
-
-<br><br>
 
 ---
 
