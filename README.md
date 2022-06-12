@@ -29,10 +29,6 @@ I'm a student, developer and teacher!
   
 </p>
 
-<br><br>
-
----
-
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:blue">
