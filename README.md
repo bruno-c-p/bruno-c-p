@@ -33,11 +33,16 @@
 
 <p align="left">
 <<<<<<< HEAD
+<<<<<<< HEAD
 
   <img align="left" alt="Bruno's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bruno_c_p&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 =======
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-c-p&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 >>>>>>> b1c8174 (Update README.md)
+=======
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+>>>>>>> 7435ca2 (Update README.md)
   
 </p>
 
