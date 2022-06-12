@@ -1,7 +1,8 @@
 # Hi, I'm Bruno 👋
 
-I'm a student, developer and teacher
+I'm a student, developer and teacher!
 
+## 🚀 Sobre mim
 - 💼 Junior Developer at [Neo Sistemas](http://www.neosistemas.com.br)
 - 🌱 I’m currently learning java ecosystem 🚀
 - 🥅 2022 Goals: Learn more about Web Development and SQL
