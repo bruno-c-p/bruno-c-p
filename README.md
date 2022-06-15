@@ -6,7 +6,6 @@ I'm a student, developer and teacher!
 - 💼 Junior Developer at [Neo Sistemas](http://www.neosistemas.com.br)
 - 🌱 I’m currently learning java ecosystem 🚀
 - 🥅 2022 Goals: Learn more about Web Development and SQL
-- ⚡ Fun fact: I love to ride a bike
 
 ## 🛠 &nbsp;Tech Stack
 
