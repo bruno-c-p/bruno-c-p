@@ -40,6 +40,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="left">
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -66,6 +67,9 @@
 <br><br>
 
 ---
+=======
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-c-p&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=FFF" /></a>
+>>>>>>> 1020ffc (Update README.md)
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
