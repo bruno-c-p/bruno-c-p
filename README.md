@@ -26,8 +26,7 @@ I'm a student, developer and teacher!
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno-c-p&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" alt="Bruno's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-c-p&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=FFF" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-c-p&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=FFF" /></a>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
