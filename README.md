@@ -26,6 +26,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker&logoColor=0d1117&color=fff)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=0d1117&color=fff)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=0d1117&color=fff)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=0d1117&color=fff)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular&logoColor=0d1117&color=fff)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=0d1117&color=fff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=0d1117&color=fff)&nbsp;
@@ -80,6 +81,7 @@
 <a href="https://www.linkedin.com/in/bruno-cardozo-pereira-561b31196/" target="_blank">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <img align="center" src="https://img.shields.io/badge/-bruno_c_p-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/bruno_c_p" target="_blank">
@@ -96,5 +98,11 @@
 <a href="https://instagram.com/bruno_c_p" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram&logoColor=white&color=0d1117" alt="instagram"/>
 >>>>>>> aff5321 (Update README.md)
+=======
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=0d1117&color=fff" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/bruno_c_p" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=for-the-badge&logo=instagram&logoColor=0d1117&color=fff" alt="instagram"/>
+>>>>>>> 36bfccb (Updating Social Links and adding MongoDB to stack)
 </a>
 </p>
