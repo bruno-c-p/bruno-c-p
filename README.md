@@ -7,8 +7,11 @@
 - 💼 FrontEnd Engineer at [Neo Sistemas](http://www.neosistemas.com.br)
 =======
 ## 🚀 About me
+<<<<<<< HEAD
 - 💼 Open to work
 >>>>>>> 320580d (Update work status)
+=======
+>>>>>>> 396ebb7 (Updated Readme.md)
 - 🌱 I’m currently learning java ecosystem 🚀
 - 🥅 2022 Goals: Learn more about Web Development and SQL
 
