@@ -3,7 +3,6 @@
 I'm a student, developer and teacher!
 
 ## 🚀 About me
-- 💼 Open to work
 - 🌱 I’m currently learning java ecosystem 🚀
 - 🥅 2022 Goals: Learn more about Web Development and SQL
 
