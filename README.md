@@ -16,6 +16,7 @@ I'm a student, developer and teacher!
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular&logoColor=0d1117&color=fff)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=0d1117&color=fff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=0d1117&color=fff)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=for-the-badge&logo=jquery&logoColor=0d1117&color=fff)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=0d1117&color=fff)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=0d1117&color=fff)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=postman&logoColor=0d1117&color=fff)&nbsp;
