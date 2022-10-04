@@ -1,8 +1,8 @@
 # Hi, I'm Bruno 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bruno_c_p&color=blue" alt="Profile views" /> </p>
 
-## I'm a student, developer and teacher
+I'm a student, developer and teacher!
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 - 💼 FrontEnd Engineer at [Neo Sistemas](http://www.neosistemas.com.br)
 =======
@@ -22,6 +22,12 @@
 <br><br>
 
 ---
+=======
+## 🚀 About me
+- 💼 Trainee at [Wise](https://www.wises.com.br/)
+- 🌱 I’m currently learning java ecosystem 🚀
+- 🥅 2022 Goals: Learn more about Web Development and SQL
+>>>>>>> 440fdea88b92484d159a7256c75ae15de9cd4b87
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -38,6 +44,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=postman&logoColor=0d1117&color=fff)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=0d1117&color=fff)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=0d1117&color=fff)&nbsp;
+<<<<<<< HEAD
 
 <br><br>
 
@@ -77,10 +84,18 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-c-p&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=FFF" /></a>
 >>>>>>> 1020ffc (Update README.md)
 
+=======
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-c-p&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=FFF" /></a>
+
+>>>>>>> 440fdea88b92484d159a7256c75ae15de9cd4b87
 ## 📷 &nbsp;Social Links
 
 <p align="left" style="background:blue">
 <a href="https://www.linkedin.com/in/bruno-cardozo-pereira-561b31196/" target="_blank">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -106,5 +121,11 @@
 <a href="https://instagram.com/bruno_c_p" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=for-the-badge&logo=instagram&logoColor=0d1117&color=fff" alt="instagram"/>
 >>>>>>> 36bfccb (Updating Social Links and adding MongoDB to stack)
+=======
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=0d1117&color=fff" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/bruno_c_p" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=for-the-badge&logo=instagram&logoColor=0d1117&color=fff" alt="instagram"/>
+>>>>>>> 440fdea88b92484d159a7256c75ae15de9cd4b87
 </a>
 </p>
