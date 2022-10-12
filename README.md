@@ -11,7 +11,6 @@ I'm a student, developer and teacher!
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=0d1117&color=fff)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&logo=spring&logoColor=0d1117&color=fff)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=0d1117&color=fff)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=0d1117&color=fff)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular&logoColor=0d1117&color=fff)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=0d1117&color=fff)&nbsp;
@@ -19,6 +18,7 @@ I'm a student, developer and teacher!
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=for-the-badge&logo=jquery&logoColor=0d1117&color=fff)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=0d1117&color=fff)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=0d1117&color=fff)&nbsp;
+![SASS](https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&logo=sass&logoColor=0d1117&color=fff)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=postman&logoColor=0d1117&color=fff)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=0d1117&color=fff)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=0d1117&color=fff)&nbsp;
