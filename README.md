@@ -11,7 +11,7 @@ I'm a student, developer and teacher!
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=0d1117&color=fff)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&logo=spring&logoColor=0d1117&color=fff)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=0d1117&color=fff)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=0d1117&color=fff)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular&logoColor=0d1117&color=fff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=0d1117&color=fff)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=typescript&logoColor=0d1117&color=fff)&nbsp;
