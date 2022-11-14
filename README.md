@@ -3,7 +3,7 @@
 I'm a student, developer and teacher!
 
 ## 🚀 About me
-- 💼 Trainee at [Wise](https://www.wises.com.br/)
+- 💼 ????
 - 🌱 I’m currently learning java ecosystem 🚀
 - 🥅 2022 Goals: Learn more about Web Development and SQL
 
