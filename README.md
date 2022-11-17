@@ -4,8 +4,7 @@ I'm a student, developer and teacher!
 
 ## 🚀 About me
 - 💼 ????
-- 🌱 I’m currently learning java ecosystem 🚀
-- 🥅 2022 Goals: Learn more about Web Development and SQL
+- 🌱 I’m currently learning spring & angular stack 🚀
 
 ## 🛠 &nbsp;Tech Stack
 
