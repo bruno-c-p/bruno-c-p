@@ -5,6 +5,12 @@ I'm a student, developer and teacher!
 ## 🚀 About me
 - 💼 ????
 - 🌱 I’m currently learning spring & angular stack 🚀
+- <p align="left" style="background:blue">
+    <a href="https://www.linkedin.com/in/bruno-cardozo-pereira-561b31196/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=0d1117&color=fff" alt="linkedin"/>
+    </a>
+  </p>
+
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -25,14 +31,3 @@ I'm a student, developer and teacher!
 ## ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-c-p&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=FFF" /></a>
-
-## 📷 &nbsp;Social Links
-
-<p align="left" style="background:blue">
-<a href="https://www.linkedin.com/in/bruno-cardozo-pereira-561b31196/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=0d1117&color=fff" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/bruno_c_p" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=for-the-badge&logo=instagram&logoColor=0d1117&color=fff" alt="instagram"/>
-</a>
-</p>
