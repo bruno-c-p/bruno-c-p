@@ -3,7 +3,7 @@
 I'm a student, developer and teacher!
 
 ## 🚀 About me
-- 💼 Developer at Wise
+- 💼 Developer at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
 - 🌱 I’m currently learning spring & angular stack 🚀
 - <p align="left" style="background:blue">
     <a href="https://www.linkedin.com/in/bruno-cardozo-pereira-561b31196/" target="_blank">
