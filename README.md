@@ -36,7 +36,3 @@ I'm a student, developer and teacher!
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=0d1117&color=fff)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=0d1117&color=fff)&nbsp;
 ![GitLab](https://img.shields.io/badge/-Gitlab-05122A?style=for-the-badge&logo=gitlab&logoColor=0d1117&color=fff)&nbsp;
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-c-p&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=FFF" /></a>
