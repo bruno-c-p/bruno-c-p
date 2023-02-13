@@ -13,26 +13,18 @@ I'm a student, developer and teacher!
 
 
 ## 🛠 &nbsp;Tech Stack
-
-###### LANGUAGES <br>
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=0d1117&color=fff)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=0d1117&color=fff)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=typescript&logoColor=0d1117&color=fff)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=0d1117&color=fff)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=0d1117&color=fff)&nbsp;
-
-###### DATABASES <br>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=0d1117&color=fff)&nbsp;
-![Oracle Database](https://img.shields.io/badge/-Oracle-05122A?style=for-the-badge&logo=oracle&logoColor=0d1117&color=fff)&nbsp;
-
-###### FRAMEWORKS <br>
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&logo=spring&logoColor=0d1117&color=fff)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular&logoColor=0d1117&color=fff)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=for-the-badge&logo=jquery&logoColor=0d1117&color=fff)&nbsp;
-![SASS](https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&logo=sass&logoColor=0d1117&color=fff)&nbsp;
-
-###### TOOLS <br>
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=postman&logoColor=0d1117&color=fff)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=0d1117&color=fff)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=0d1117&color=fff)&nbsp;
-![GitLab](https://img.shields.io/badge/-Gitlab-05122A?style=for-the-badge&logo=gitlab&logoColor=0d1117&color=fff)&nbsp;
+<div style="display: flex">
+  <br>
+  <img align="center" alt="Java Logo" height="40" width="50" src="https://icongr.am/devicon/java-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="Spring Logo" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" >
+  <img align="center" alt="TypeScript Logo" height="40" width="50" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=ffffff">
+  <img align="center" alt="JavaScript Logo" height="40" width="50" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="Html Logo" height="40" width="50" src="https://icongr.am/devicon/html5-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="Css Logo" height="40" width="50" src="https://icongr.am/devicon/css3-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="Sass Logo" height="40" width="50" src="https://icongr.am/devicon/sass-original.svg?size=128&color=ffffff">  
+  <img align="center" alt="Angular Logo" height="40" width="50" src="https://icongr.am/devicon/angularjs-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="NestJS Logo" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" >
+  <img align="center" alt="PostgreSQL Logo" height="40" width="50" src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=ffffff" >
+  <img align="center" alt="NodeJS Logo" height="40" width="50" src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=ffffff" >
+  <img align="center" alt="Git Logo" height="40" width="50" src="https://icongr.am/devicon/git-plain.svg?size=128&color=ffffff" >
+</div>
