@@ -17,14 +17,13 @@ I'm a student, developer and teacher!
   <br>
   <img align="center" alt="Java Logo" height="40" width="50" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="Spring Logo" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" >
+  <img align="center" alt="NodeJS Logo" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg" >
   <img align="center" alt="TypeScript Logo" height="40" width="50" src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor">
   <img align="center" alt="JavaScript Logo" height="40" width="50" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+  <img align="center" alt="React Logo" height="40" width="50" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   <img align="center" alt="Html Logo" height="40" width="50" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="Css Logo" height="40" width="50" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Sass Logo" height="40" width="50" src="https://icongr.am/devicon/sass-original.svg?size=128&color=ffffff">  
-  <img align="center" alt="Angular Logo" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
-  <img align="center" alt="NestJS Logo" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" >
+  <img align="center" alt="Sass Logo" height="40" width="50" src="https://icongr.am/devicon/sass-original.svg?size=128&color=ffffff">
   <img align="center" alt="PostgreSQL Logo" height="40" width="50" src="https://icongr.am/devicon/postgresql-original.svg" >
-  <img align="center" alt="NodeJS Logo" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg" >
   <img align="center" alt="Git Logo" height="40" width="50" src="https://icongr.am/devicon/git-original.svg" >
 </div>
