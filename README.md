@@ -4,7 +4,7 @@ I'm a student, developer and teacher!
 
 ## 🚀 About me
 - 💼 Developer at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
-- 🌱 I’m currently learning flutter 🚀
+- 🌱 I’m currently learning react 
 - <p align="left" style="background:blue">
     <a href="https://www.linkedin.com/in/bruno-cardozo-pereira-561b31196/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=0d1117&color=fff" alt="linkedin"/>
