@@ -4,7 +4,8 @@ I'm a student, developer and teacher!
 
 ## 🚀 About me
 - 💼 Developer at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
-- 🌱 I’m currently learning react 
+- 📚 Teacher and student at <a href="https://unibave.net/" target="_blank">Unibave</a>
+- 🌱 I’m currently learning more about <a href="https://angular.io/" target="_blank">Angular</a> & <a href="https://spring.io/" target="_blank">SpringBoot</a> 
 - <p align="left" style="background:blue">
     <a href="https://www.linkedin.com/in/bruno-cardozo-pereira-561b31196/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=0d1117&color=fff" alt="linkedin"/>
