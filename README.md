@@ -22,6 +22,7 @@ I'm a student, developer and teacher!
   <img align="center" alt="TypeScript Logo" height="40" width="50" src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor">
   <img align="center" alt="JavaScript Logo" height="40" width="50" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <img align="center" alt="React Logo" height="40" width="50" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Git Logo" height="40" width="50" src="https://icongr.am/devicon/angularjs-plain.svg?size=128&color=a6120d" >
   <img align="center" alt="Html Logo" height="40" width="50" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="Css Logo" height="40" width="50" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Sass Logo" height="40" width="50" src="https://icongr.am/devicon/sass-original.svg?size=128&color=ffffff">
