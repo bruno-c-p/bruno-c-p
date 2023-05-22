@@ -3,7 +3,7 @@
 I'm a student, developer and teacher!
 
 ## 🚀 About me
-- 💼 Developer at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
+- 💼 Java Backend Developer at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
 - 📚 Teacher and student at <a href="https://unibave.net/" target="_blank">Unibave</a>
 - 🌱 I’m currently learning more about Node & React 
 - <p align="left" style="background:blue">
