@@ -15,7 +15,6 @@ I'm a student, developer and teacher!
 
 ## 🛠 &nbsp;Tech Stack
 <div style="display: flex">
-  <br>
   <img align="center" alt="Java Logo" height="40" width="50" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="Spring Logo" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" >
   <img align="center" alt="NodeJS Logo" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg" >
@@ -27,4 +26,10 @@ I'm a student, developer and teacher!
   <img align="center" alt="Sass Logo" height="40" width="50" src="https://icongr.am/devicon/sass-original.svg?size=128&color=ffffff">
   <img align="center" alt="PostgreSQL Logo" height="40" width="50" src="https://icongr.am/devicon/postgresql-original.svg" >
   <img align="center" alt="Git Logo" height="40" width="50" src="https://icongr.am/devicon/git-original.svg" >
+  <br><br>
+</div>
+
+### 🧠 &nbsp;I also have some knowledge in
+<div style="display: flex">
+  <img align="center" alt="Figma Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
 </div>
