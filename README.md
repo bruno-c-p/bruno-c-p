@@ -29,7 +29,7 @@ I'm a student, developer and teacher!
   <br><br>
 </div>
 
-### 🧠 &nbsp;I also have some knowledge in
+### 🧠 &nbsp;I also have knowledge in
 <div style="display: flex">
   <img align="center" alt="Figma Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
 </div>
