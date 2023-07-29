@@ -13,23 +13,24 @@ I'm a student, developer and teacher!
   </p>
 
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Current Tech Stack
 <div style="display: flex">
   <img align="center" alt="Java Logo" height="40" width="50" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="Spring Logo" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" >
+  <img align="center" alt="PostgreSQL Logo" height="40" width="50" src="https://icongr.am/devicon/postgresql-original.svg" >
+  <img align="center" alt="Git Logo" height="40" width="50" src="https://icongr.am/devicon/git-original.svg" >
   <img align="center" alt="NodeJS Logo" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg" >
   <img align="center" alt="TypeScript Logo" height="40" width="50" src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor">
   <img align="center" alt="JavaScript Logo" height="40" width="50" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-  <img align="center" alt="React Logo" height="40" width="50" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   <img align="center" alt="Html Logo" height="40" width="50" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Css Logo" height="40" width="50" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Sass Logo" height="40" width="50" src="https://icongr.am/devicon/sass-original.svg?size=128&color=ffffff">
-  <img align="center" alt="PostgreSQL Logo" height="40" width="50" src="https://icongr.am/devicon/postgresql-original.svg" >
-  <img align="center" alt="Git Logo" height="40" width="50" src="https://icongr.am/devicon/git-original.svg" >
+  <img align="center" alt="React Logo" height="40" width="50" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+  <img align="center" alt="TailwindCSS Logo" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <br><br>
 </div>
 
 ### 🧠 &nbsp;I also have knowledge in
 <div style="display: flex">
   <img align="center" alt="Figma Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
+    <img align="center" alt="Sass Logo" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=ffffff">
+    <img align="center" alt="CSS Logo" height="40" width="50" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
 </div>
