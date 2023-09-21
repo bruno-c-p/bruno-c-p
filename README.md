@@ -3,7 +3,7 @@ __Hi, I'm Bruno__ 👋
 I'm a student, developer and teacher!
 
 🚀 __About me__
-- 💼 Java Backend Enginner at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
+- 💼 Software Enginner at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
 - 📚 Teacher and student at <a href="https://unibave.net/" target="_blank">Unibave</a>
 - 🌱 I’m currently refactoring old projects
 - <p align="left" style="background:blue">
