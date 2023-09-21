@@ -1,8 +1,8 @@
-# Hi, I'm Bruno 👋
+__Hi, I'm Bruno__ 👋
 
 I'm a student, developer and teacher!
 
-## 🚀 About me
+🚀 __About me__
 - 💼 Java Backend Enginner at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
 - 📚 Teacher and student at <a href="https://unibave.net/" target="_blank">Unibave</a>
 - 🌱 I’m currently refactoring old projects
@@ -13,7 +13,7 @@ I'm a student, developer and teacher!
   </p>
 
 
-## 🛠 &nbsp;Current Tech Stack
+🛠 &nbsp;__Current Tech Stack__
 <div style="display: flex">
   <img align="center" alt="Figma Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
   <img align="center" alt="Java Logo" height="40" width="50" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
@@ -25,7 +25,7 @@ I'm a student, developer and teacher!
   <br><br>
 </div>
 
-### 🧠 &nbsp;I also have knowledge in
+🧠 &nbsp;__I also have knowledge in__
 <div style="display: flex">
     <img align="center" alt="NodeJS Logo" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg" >
     <img align="center" alt="JavaScript Logo" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
