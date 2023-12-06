@@ -2,6 +2,8 @@ __Hi, I'm Bruno__ 👋
 
 I'm a student, developer and teacher!
 
+I use Java btw 🤷‍♂️
+
 🚀 __About me__
 - 💼 Software Enginner at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
 - 📚 Teacher and student at <a href="https://unibave.net/" target="_blank">Unibave</a>
