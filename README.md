@@ -25,6 +25,7 @@ I use Java btw 🤷‍♂️
 🧠 &nbsp;__I also have knowledge in__
 <div style="display: flex">
     <img align="center" alt="NodeJS Logo" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg" >
+    <img align="center" alt="NodeJS Logo" height="30" width="40" src="https://vitest.dev/logo.svg" >
     <img align="center" alt="JavaScript Logo" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
     <img align="center" alt="Html Logo" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
     <img align="center" alt="CSS Logo" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
