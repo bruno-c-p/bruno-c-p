@@ -8,7 +8,7 @@ I'm a student, developer and teacher!
 - 💼 Software Enginner at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
 - 📚 Teacher and student at <a href="https://unibave.net/" target="_blank">Unibave</a>
 - 👥 Feel free to reach out to me on <a href="https://www.linkedin.com/in/bruno-cardozo-pereira-561b31196/" target="_blank">Linkedin</a>
-- ❓ I'm currently trying to understand what happened with frontend development. When did I get lost?
+- ❓ I'm currently trying to understand what happened to frontend development. When did I get lost?
 
 🛠 &nbsp;__Current Tech Stack__
 <div style="display: flex">
