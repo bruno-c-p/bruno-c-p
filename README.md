@@ -11,13 +11,15 @@ I'm a student, developer and teacher!
 - ❓ I'm currently trying to understand what happened to frontend development. When did I get lost?
 
 🛠 &nbsp;__Current Tech Stack__
-<div style="display: flex">
+<div>
   <img align="center" alt="Figma Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
   <img align="center" alt="Docker Logo" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
+  <img align="center" width="40" height="30" class="margin-top:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" alt="Java Logo" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="Spring Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" >
   <img align="center" alt="PostgreSQL Logo" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg" >
   <img align="center" alt="Angular Logo" height="30" width="40" src="https://icongr.am/devicon/angularjs-plain.svg?size=128&color=ee0918">
+  <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
   <img align="center" alt="TypeScript Logo" height="30" width="40" src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor">
   <img align="center" alt="TailwindCSS Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <br><br>
