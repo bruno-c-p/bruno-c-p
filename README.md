@@ -3,7 +3,7 @@ __Hi, I'm Bruno__ 👋
 I'm a student, developer and teacher!
 
 🚀 __About me__
-- 🌱 Founding 2 startups
+- 🌱 Building solutions
 - 💼 Software Enginner at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
 - 📚 Teacher and graduated student at <a href="https://unibave.net/" target="_blank">Unibave</a>
 - 👥 Feel free to reach out to me on <a href="https://www.linkedin.com/in/bruno-cardozo-pereira-561b31196/" target="_blank">Linkedin</a>
