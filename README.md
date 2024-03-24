@@ -20,7 +20,7 @@ I'm a student, developer and teacher!
 <div>
   <img align="center" alt="Figma Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
   <img align="center" alt="Docker Logo" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Golang Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+  <img align="center" alt="Java Logo" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="PostgreSQL Logo" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg" >
   <img align="center" alt="Angular Logo" height="30" width="40" src="https://icongr.am/devicon/angularjs-plain.svg?size=128&color=ee0918">
   <img align="center" alt="TailwindCSS Logo" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
