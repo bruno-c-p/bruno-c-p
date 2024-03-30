@@ -1,7 +1,5 @@
 __Hi, I'm Bruno__ 👋
 
-I'm a student, developer and teacher!
-
 🚀 __About me__
 - 🌱 Building solutions
 - 💼 Software Enginner at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
