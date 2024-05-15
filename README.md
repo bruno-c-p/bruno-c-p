@@ -11,6 +11,8 @@
   <img align="center" alt="Spring Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" >
   <img align="center" alt="NodeJS Logo" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg" >
   <img align="center" alt="PostgreSQL Logo" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg" >
+  <img align="center" alt="PHP Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" >
+  <img align="center" alt="Laravel Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" >
   <br><br>Frontend<br><br>
   <img align="center" alt="Figma Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
   <img align="center" alt="JavaScript Logo" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
