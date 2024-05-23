@@ -23,6 +23,4 @@
   <img align="center" alt="CSS Logo" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Sass Logo" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=ffffff">
   <img align="center" alt="TailwindCSS Logo" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
-  <br><br>Fullstack<br><br>
-  <img align="center" alt="NextJS Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </div>
