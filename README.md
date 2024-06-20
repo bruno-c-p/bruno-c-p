@@ -19,7 +19,6 @@
   <br><br>Frontend<br><br>
   <img align="center" alt="Figma Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
   |
-  <img align="center" alt="Sass Logo" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=ffffff">
   <img align="center" alt="TailwindCSS Logo" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
   <img align="center" alt="CSS Logo" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Html Logo" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
