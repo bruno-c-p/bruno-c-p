@@ -11,7 +11,8 @@
   <img align="center" alt="PostgreSQL Logo" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg" >
   |
   <img align="center" alt="Java Logo" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Spring Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" >
+  <img align="center" alt="Spring Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img align="center" alt="Quarkus Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" />
   <br><br>Frontend<br><br>
   <img align="center" alt="TailwindCSS Logo" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
   <img align="center" alt="CSS Logo" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
