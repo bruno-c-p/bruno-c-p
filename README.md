@@ -1,5 +1,5 @@
 🚀 __About me__
-- 🌱 Building startups
+- 🌱 Learning distributed architecture
 - 💼 Software Enginner at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
 - 📚 Teacher and graduated student at <a href="https://unibave.net/" target="_blank">Unibave</a>
 
