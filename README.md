@@ -25,4 +25,4 @@
   <img align="center" alt="Git Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <br><br>
 </div>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6701da24fb4be684dbef45e6?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6701da24fb4be684dbef45e6?variant=dark" alt="roadmap.sh"/></a>
