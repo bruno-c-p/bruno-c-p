@@ -1,5 +1,5 @@
 🚀 __About me__
-- 🌱 Learning distributed architecture
+- 🌱 Learning Frontend
 - 💼 Software Developer at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
 - 📚 Teacher and graduated student at <a href="https://unibave.net/" target="_blank">Unibave</a>
 
