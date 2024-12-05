@@ -13,6 +13,7 @@
   <img align="center" alt="RabbitMQ Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
   <br><br>Frontend<br><br>
   <img align="center" alt="TailwindCSS Logo" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
+  <img align="center" alt="SASS Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
   <img align="center" alt="CSS Logo" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Html Logo" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="JavaScript Logo" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
