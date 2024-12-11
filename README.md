@@ -3,6 +3,7 @@
   - __6y+ XP__
   - __UX/UI | 3y+ XP__
 - 💻 Developer since 2020
+  - __4y+ XP__
 - 🌱 Learning Full-Stack Dev
 - 💼 Software Developer at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
 - 📚 Teacher and graduated student at <a href="https://unibave.net/" target="_blank">Unibave</a>
