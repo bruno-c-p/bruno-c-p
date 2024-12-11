@@ -1,29 +1,23 @@
 🚀 __About me__
-- 🌱 Learning Frontend
+- 🎨 Designer since 2018
+  - __6y+ XP__
+  - __UX/UI | 3y+ XP__
+- 💻 Developer since 2020
+- 🌱 Learning Full-Stack Dev
 - 💼 Software Developer at <a href="https://www.wises.com.br/" target="_blank">Wise</a>
 - 📚 Teacher and graduated student at <a href="https://unibave.net/" target="_blank">Unibave</a>
+- 🎓 Currently specializing in a post-graduation program focused on mastering Full-Stack Dev, AI, DevOps, and Product Management.
 
 🛠 &nbsp;__Experience__
 <div>
-  Backend<br><br>
-  <img align="center" alt="Docker Logo" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
-  <img align="center" alt="PostgreSQL Logo" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg" >
-  <img align="center" alt="Java Logo" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Spring Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="RabbitMQ Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
-  <img align="center" alt="NodeJS Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <br><br>Frontend<br><br>
-  <img align="center" alt="TailwindCSS Logo" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
-  <img align="center" alt="SASS Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-  <img align="center" alt="CSS Logo" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Html Logo" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
-  <img align="center" alt="JavaScript Logo" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-  <img align="center" alt="TypeScript Logo" height="30" width="40" src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor">
-  <img align="center" alt="React Logo" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=ee0918">
   
-  <br><br>Others<br><br>
-  <img align="center" alt="Figma Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
-  <img align="center" alt="AWS Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  <img align="center" alt="Git Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <em>Backend</em><br><br>
+  [![My Skills](https://skillicons.dev/icons?i=docker,postgres,java,spring,rabbitmq,nodejs)](https://skillicons.dev)
+  
+  <em>Frontend</em><br><br>
+  [![My Skills](https://skillicons.dev/icons?i=tailwind,sass,css,html,javascript,typescript,react,figma)](https://skillicons.dev)
+  
+  <em>Others</em><br><br>
+  [![My Skills](https://skillicons.dev/icons?i=aws,git)](https://skillicons.dev)
   <br><br>
 </div>
