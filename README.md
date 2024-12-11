@@ -11,6 +11,7 @@
   - <a href="https://www.rocketseat.com.br/faculdade" target="_blank">Rocketseat 🚀</a>
   - <p><em>If you’re offered a seat on a rocket ship, don’t ask what seat!</em> - Sheryl Sandberg</p>
 <br>
+
 🛠 &nbsp;__Experience__
 <div>
   
