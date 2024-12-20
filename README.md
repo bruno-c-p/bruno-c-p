@@ -22,6 +22,6 @@
   [![My Skills](https://skillicons.dev/icons?i=tailwind,sass,css,html,javascript,typescript,react,vite,figma)](https://skillicons.dev)
   
   <em>Others</em><br><br>
-  [![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,githubactions,git,pnpm,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,githubactions,git,flask,python,linux)](https://skillicons.dev)
   <br><br>
 </div>
