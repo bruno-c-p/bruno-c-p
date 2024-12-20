@@ -16,12 +16,12 @@
 <div>
   
   <em>Backend</em><br><br>
-  [![My Skills](https://skillicons.dev/icons?i=docker,redis,postgres,maven,java,spring,rabbitmq,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=docker,redis,postgres,java,spring,rabbitmq,nodejs,flask,python)](https://skillicons.dev)
   
   <em>Frontend</em><br><br>
   [![My Skills](https://skillicons.dev/icons?i=tailwind,sass,css,html,javascript,typescript,react,vite,figma)](https://skillicons.dev)
   
   <em>Others</em><br><br>
-  [![My Skills](https://skillicons.dev/icons?i=aws,githubactions,git,flask,python,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,githubactions,git,linux)](https://skillicons.dev)
   <br><br>
 </div>
