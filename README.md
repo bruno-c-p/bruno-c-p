@@ -9,7 +9,7 @@
 - 📚 Teacher and graduated student at <a href="https://unibave.net/" target="_blank">Unibave</a>
 - 🎓 Currently specializing in a post-graduation program focused on mastering Full-Stack Dev, AI, DevOps, and Product Management.
   - <a href="https://www.rocketseat.com.br/faculdade" target="_blank">Rocketseat 🚀</a>
-  - <p><em>If you’re offered a seat on a rocket ship, don’t ask what seat!</em> - Sheryl Sandberg</p>
+  - <p><em>If you’re offered a seat on a rocket ship, don’t ask what seat. Just get on.</em> - Sheryl Sandberg</p>
 <br>
 
 🛠 &nbsp;__Experience__
