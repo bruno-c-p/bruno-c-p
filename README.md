@@ -21,7 +21,7 @@
   <em>Frontend</em><br><br>
   [![Frontend Skills](https://skillicons.dev/icons?i=tailwind,sass,css,html,javascript,typescript,react,vite,figma)](https://skillicons.dev)
   
-  <em>Others</em><br><br>
-  [![Other Skills](https://skillicons.dev/icons?i=aws,githubactions,git,linux)](https://skillicons.dev)
+  <em>DevOps</em><br><br>
+  [![DevOps Skills](https://skillicons.dev/icons?i=aws,githubactions,git)](https://skillicons.dev)
   <br><br>
 </div>
