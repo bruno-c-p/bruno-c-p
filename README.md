@@ -16,7 +16,7 @@
 <div>
   
   <em>Backend</em><br><br>
-  [![Backend Skills](https://skillicons.dev/icons?i=docker,redis,postgres,java,spring,rabbitmq,nodejs,flask,python)](https://skillicons.dev)
+  [![Backend Skills](https://skillicons.dev/icons?i=docker,redis,postgres,java,spring,rabbitmq,nodejs)](https://skillicons.dev)
   
   <em>Frontend</em><br><br>
   [![Frontend Skills](https://skillicons.dev/icons?i=tailwind,sass,css,html,javascript,typescript,react,vite,figma)](https://skillicons.dev)
