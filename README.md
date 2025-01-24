@@ -16,12 +16,12 @@
 <div>
   
   <em>Backend</em><br><br>
-  [![Backend Skills](https://skillicons.dev/icons?i=docker,redis,postgres,java,spring,rabbitmq,nodejs,vitest)](https://skillicons.dev)
+  [![Backend Skills](https://skillicons.dev/icons?i=redis,postgres,java,spring,rabbitmq,nodejs,vitest)](https://skillicons.dev)
   
   <em>Frontend</em><br><br>
   [![Frontend Skills](https://skillicons.dev/icons?i=tailwind,sass,css,html,javascript,typescript,react,vite,figma)](https://skillicons.dev)
   
   <em>DevOps</em><br><br>
-  [![DevOps Skills](https://skillicons.dev/icons?i=aws,githubactions,git)](https://skillicons.dev)
+  [![DevOps Skills](https://skillicons.dev/icons?i=docker,aws,githubactions,git)](https://skillicons.dev)
   <br><br>
 </div>
