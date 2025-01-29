@@ -19,9 +19,9 @@
   [![Backend Skills](https://skillicons.dev/icons?i=redis,postgres,java,spring,rabbitmq,nodejs,vitest)](https://skillicons.dev)
   
   <em>Frontend</em><br><br>
-  [![Frontend Skills](https://skillicons.dev/icons?i=tailwind,sass,css,html,javascript,typescript,react,vite,figma)](https://skillicons.dev)
+  [![Frontend Skills](https://skillicons.dev/icons?i=sass,css,html,javascript,typescript,tailwind,react,vite,figma)](https://skillicons.dev)
   
   <em>DevOps</em><br><br>
-  [![DevOps Skills](https://skillicons.dev/icons?i=docker,aws,githubactions,git)](https://skillicons.dev)
+  [![DevOps Skills](https://skillicons.dev/icons?i=docker,git,aws,cloudflare,githubactions)](https://skillicons.dev)
   <br><br>
 </div>
