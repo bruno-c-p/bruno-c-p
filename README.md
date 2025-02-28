@@ -8,10 +8,10 @@
 <div>
   
   <em>Backend</em><br><br>
-  [![Backend Skills](https://skillicons.dev/icons?i=redis,postgres,java,spring,rabbitmq,nodejs,vitest,python)](https://skillicons.dev)
+  [![Backend Skills](https://skillicons.dev/icons?i=redis,postgres,java,spring,nodejs,vitest)](https://skillicons.dev)
   
   <em>Frontend</em><br><br>
-  [![Frontend Skills](https://skillicons.dev/icons?i=sass,css,html,javascript,typescript,tailwind,react,vite,figma)](https://skillicons.dev)
+  [![Frontend Skills](https://skillicons.dev/icons?i=css,html,javascript,typescript,tailwind,react,vite,figma)](https://skillicons.dev)
   
   <em>DevOps</em><br><br>
   [![DevOps Skills](https://skillicons.dev/icons?i=docker,git,aws,cloudflare,githubactions)](https://skillicons.dev)
