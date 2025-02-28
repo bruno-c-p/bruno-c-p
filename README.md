@@ -1,5 +1,4 @@
 🚀 __About me__
-- 🎨 Designer | UX/UI since 2018
 - 💻 Developer since 2020
 - 📚 Teacher and graduated student at <a href="https://unibave.net/" target="_blank">Unibave</a>
 - 🎓 Currently specializing in a post-graduation focused on Full-Stack Dev, AI, DevOps, and Product Management at <a href="https://www.rocketseat.com.br/faculdade" target="_blank">Rocketseat</a>.
